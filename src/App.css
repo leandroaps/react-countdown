@@ -1,0 +1,15 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.header {
+  text-transform: uppercase;
+}
+
+/* Countdown stylimg */
+.countdown {
+  padding: 20px;
+}
+.countdown-header {
+  font-size: 32px;
+}
